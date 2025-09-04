@@ -1,38 +1,51 @@
-# LangGraph-Learning-Journey 🚀
+# 🌐 LangGraph Workflows Hub
 
-Hands-on learning journey with **LangGraph** — building, experimenting, and sharing projects on agentic workflows, state management, and advanced LLM orchestration.  
-
----
-
-## 📌 About This Repository
-This repository documents my journey of learning **LangGraph**, starting from the basics and gradually moving towards building advanced AI agent workflows.  
-I will be posting:
-- 🔹 Learning notes & experiments  
-- 🔹 Small practice projects  
-- 🔹 End-to-end LangGraph applications  
+Welcome to the **LangGraph Workflows Repository** 🚀  
+This repo contains practical implementations of **LangGraph workflows** that demonstrate how to design structured, stateful, and multi-agent pipelines with LLMs.
 
 ---
 
-## 🎯 Learning Goals
-- Understand the fundamentals of **LangGraph**  
-- Explore **agentic workflows** and **state management**  
-- Integrate LangGraph with **LangChain & LangSmith**  
-- Build real-world projects using LangGraph  
+## 📖 Blog on LangGraph
+I’ve written a detailed introduction to LangGraph, its flow, and why it’s useful here:  
+👉 [LangGraph: The Future of AI Workflows](https://codeops.hashnode.dev)  
 
 ---
 
-## 📂 Repository Structure
+## 🔄 Workflows Included
+
+### 1️⃣ Sequential Workflows  
+**Prompt Chaining Workflow**  
+- Demonstrates how to connect multiple LLM calls in sequence.  
+- Example: Step-by-step reasoning with chained prompts.
 
 ---
 
----
-
-## 📚 Resources
-- [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)  
-- [LangChain Documentation](https://python.langchain.com/)  
-- [LangSmith](https://smith.langchain.com/)  
+### 2️⃣ Parallel Workflows  
+**UPSC Essay Generator with LLM**  
+- Run multiple LLM calls in **parallel** for efficiency.  
+- Example: Generating different essay sections at the same time.  
 
 ---
+
+### 3️⃣ Conditional Workflows  
+**AI Review System**  
+- Uses **conditional edges** to decide the next step dynamically.  
+- Example: Approve or send for improvement based on evaluation.  
+
 ---
 
-✨ Stay tuned as I explore and build with LangGraph!
+### 4️⃣ Iterative Workflows  
+**X Tweet Generator**  
+- Keeps improving output until the evaluator approves.  
+- Example: Generate → Evaluate → Optimize → Repeat.  
+
+---
+
+### 5️⃣ Chatbot Workflow  
+**Build a Chatbot with LangGraph**  
+- Simple chatbot with memory, state, and conversational flow.  
+- Example: Interactive Q&A system.
+
+---
+
+## 📂 Project Structure
