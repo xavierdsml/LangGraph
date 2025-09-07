@@ -20,3 +20,6 @@ ipykernel
 
 # LangGraph
 Langgraph
+
+# frontend
+streamlit
