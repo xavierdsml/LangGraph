@@ -23,3 +23,6 @@ Langgraph
 
 # frontend
 streamlit
+
+# db
+sqlite
